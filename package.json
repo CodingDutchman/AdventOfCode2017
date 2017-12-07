@@ -1,0 +1,14 @@
+{
+  "name": "vanzante-advent-of-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:codingdutchman/AdventOfCode2017.git",
+  "author": "Matthew Van Zante",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "~21.2.1"
+  }
+}
